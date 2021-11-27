@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/web-personal-HQ/static/css/main.cdab96b8.chunk.css",
-    "main.js": "/web-personal-HQ/static/js/main.8b634cd1.chunk.js",
-    "main.js.map": "/web-personal-HQ/static/js/main.8b634cd1.chunk.js.map",
-    "runtime-main.js": "/web-personal-HQ/static/js/runtime-main.26e81cee.js",
-    "runtime-main.js.map": "/web-personal-HQ/static/js/runtime-main.26e81cee.js.map",
-    "static/js/2.860b4172.chunk.js": "/web-personal-HQ/static/js/2.860b4172.chunk.js",
-    "static/js/2.860b4172.chunk.js.map": "/web-personal-HQ/static/js/2.860b4172.chunk.js.map",
-    "static/js/3.b0402e6c.chunk.js": "/web-personal-HQ/static/js/3.b0402e6c.chunk.js",
-    "static/js/3.b0402e6c.chunk.js.map": "/web-personal-HQ/static/js/3.b0402e6c.chunk.js.map",
+    "main.css": "/web-personal-HQ/static/css/main.dd2cc5c8.chunk.css",
+    "main.js": "/web-personal-HQ/static/js/main.ce6273ae.chunk.js",
+    "main.js.map": "/web-personal-HQ/static/js/main.ce6273ae.chunk.js.map",
+    "runtime-main.js": "/web-personal-HQ/static/js/runtime-main.cda336a4.js",
+    "runtime-main.js.map": "/web-personal-HQ/static/js/runtime-main.cda336a4.js.map",
+    "static/js/2.811ddac7.chunk.js": "/web-personal-HQ/static/js/2.811ddac7.chunk.js",
+    "static/js/2.811ddac7.chunk.js.map": "/web-personal-HQ/static/js/2.811ddac7.chunk.js.map",
+    "static/js/3.84b22c62.chunk.js": "/web-personal-HQ/static/js/3.84b22c62.chunk.js",
+    "static/js/3.84b22c62.chunk.js.map": "/web-personal-HQ/static/js/3.84b22c62.chunk.js.map",
     "index.html": "/web-personal-HQ/index.html",
-    "static/css/main.cdab96b8.chunk.css.map": "/web-personal-HQ/static/css/main.cdab96b8.chunk.css.map",
-    "static/js/2.860b4172.chunk.js.LICENSE.txt": "/web-personal-HQ/static/js/2.860b4172.chunk.js.LICENSE.txt",
-    "static/media/logo_free-file.b145be07.png": "/web-personal-HQ/static/media/logo_free-file.b145be07.png"
+    "static/css/main.dd2cc5c8.chunk.css.map": "/web-personal-HQ/static/css/main.dd2cc5c8.chunk.css.map",
+    "static/js/2.811ddac7.chunk.js.LICENSE.txt": "/web-personal-HQ/static/js/2.811ddac7.chunk.js.LICENSE.txt",
+    "static/media/lentes_anime.7322962f.jpg": "/web-personal-HQ/static/media/lentes_anime.7322962f.jpg",
+    "static/media/logo_free-file.b145be07.png": "/web-personal-HQ/static/media/logo_free-file.b145be07.png",
+    "static/media/profile.f41c5585.png": "/web-personal-HQ/static/media/profile.f41c5585.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.26e81cee.js",
-    "static/js/2.860b4172.chunk.js",
-    "static/css/main.cdab96b8.chunk.css",
-    "static/js/main.8b634cd1.chunk.js"
+    "static/js/runtime-main.cda336a4.js",
+    "static/js/2.811ddac7.chunk.js",
+    "static/css/main.dd2cc5c8.chunk.css",
+    "static/js/main.ce6273ae.chunk.js"
   ]
 }
