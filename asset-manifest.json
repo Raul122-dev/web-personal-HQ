@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/web-personal-HQ/static/css/main.8f8ee2f4.chunk.css",
-    "main.js": "/web-personal-HQ/static/js/main.9f0b629e.chunk.js",
-    "main.js.map": "/web-personal-HQ/static/js/main.9f0b629e.chunk.js.map",
-    "runtime-main.js": "/web-personal-HQ/static/js/runtime-main.16da55e8.js",
-    "runtime-main.js.map": "/web-personal-HQ/static/js/runtime-main.16da55e8.js.map",
+    "main.css": "/web-personal-HQ/static/css/main.185de1e4.chunk.css",
+    "main.js": "/web-personal-HQ/static/js/main.c76972f6.chunk.js",
+    "main.js.map": "/web-personal-HQ/static/js/main.c76972f6.chunk.js.map",
+    "runtime-main.js": "/web-personal-HQ/static/js/runtime-main.0a518687.js",
+    "runtime-main.js.map": "/web-personal-HQ/static/js/runtime-main.0a518687.js.map",
     "static/css/2.c4411659.chunk.css": "/web-personal-HQ/static/css/2.c4411659.chunk.css",
-    "static/js/2.437e05b3.chunk.js": "/web-personal-HQ/static/js/2.437e05b3.chunk.js",
-    "static/js/2.437e05b3.chunk.js.map": "/web-personal-HQ/static/js/2.437e05b3.chunk.js.map",
-    "static/js/3.9d651d03.chunk.js": "/web-personal-HQ/static/js/3.9d651d03.chunk.js",
-    "static/js/3.9d651d03.chunk.js.map": "/web-personal-HQ/static/js/3.9d651d03.chunk.js.map",
+    "static/js/2.e0e0edb4.chunk.js": "/web-personal-HQ/static/js/2.e0e0edb4.chunk.js",
+    "static/js/2.e0e0edb4.chunk.js.map": "/web-personal-HQ/static/js/2.e0e0edb4.chunk.js.map",
+    "static/js/3.dfb9d35e.chunk.js": "/web-personal-HQ/static/js/3.dfb9d35e.chunk.js",
+    "static/js/3.dfb9d35e.chunk.js.map": "/web-personal-HQ/static/js/3.dfb9d35e.chunk.js.map",
     "index.html": "/web-personal-HQ/index.html",
     "static/css/2.c4411659.chunk.css.map": "/web-personal-HQ/static/css/2.c4411659.chunk.css.map",
-    "static/css/main.8f8ee2f4.chunk.css.map": "/web-personal-HQ/static/css/main.8f8ee2f4.chunk.css.map",
-    "static/js/2.437e05b3.chunk.js.LICENSE.txt": "/web-personal-HQ/static/js/2.437e05b3.chunk.js.LICENSE.txt",
+    "static/css/main.185de1e4.chunk.css.map": "/web-personal-HQ/static/css/main.185de1e4.chunk.css.map",
+    "static/js/2.e0e0edb4.chunk.js.LICENSE.txt": "/web-personal-HQ/static/js/2.e0e0edb4.chunk.js.LICENSE.txt",
     "static/media/CV 6C24 AB VICTOR RAUL HAUYCHO QUISPE 20_2.8f4cb1d5.pdf": "/web-personal-HQ/static/media/CV 6C24 AB VICTOR RAUL HAUYCHO QUISPE 20_2.8f4cb1d5.pdf",
     "static/media/comer.f5bad0d2.png": "/web-personal-HQ/static/media/comer.f5bad0d2.png",
     "static/media/competencia.ed3c157e.svg": "/web-personal-HQ/static/media/competencia.ed3c157e.svg",
@@ -26,10 +26,10 @@
     "static/media/videoc.53f17a2e.png": "/web-personal-HQ/static/media/videoc.53f17a2e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.16da55e8.js",
+    "static/js/runtime-main.0a518687.js",
     "static/css/2.c4411659.chunk.css",
-    "static/js/2.437e05b3.chunk.js",
-    "static/css/main.8f8ee2f4.chunk.css",
-    "static/js/main.9f0b629e.chunk.js"
+    "static/js/2.e0e0edb4.chunk.js",
+    "static/css/main.185de1e4.chunk.css",
+    "static/js/main.c76972f6.chunk.js"
   ]
 }
