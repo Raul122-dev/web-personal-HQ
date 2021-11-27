@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/web-personal-HQ/static/css/main.127a0e53.chunk.css",
-    "main.js": "/web-personal-HQ/static/js/main.cb16cbb5.chunk.js",
-    "main.js.map": "/web-personal-HQ/static/js/main.cb16cbb5.chunk.js.map",
+    "main.css": "/web-personal-HQ/static/css/main.2fc201a2.chunk.css",
+    "main.js": "/web-personal-HQ/static/js/main.88cc1506.chunk.js",
+    "main.js.map": "/web-personal-HQ/static/js/main.88cc1506.chunk.js.map",
     "runtime-main.js": "/web-personal-HQ/static/js/runtime-main.9521dcc3.js",
     "runtime-main.js.map": "/web-personal-HQ/static/js/runtime-main.9521dcc3.js.map",
-    "static/js/2.94c9019b.chunk.js": "/web-personal-HQ/static/js/2.94c9019b.chunk.js",
-    "static/js/2.94c9019b.chunk.js.map": "/web-personal-HQ/static/js/2.94c9019b.chunk.js.map",
+    "static/js/2.c78a423f.chunk.js": "/web-personal-HQ/static/js/2.c78a423f.chunk.js",
+    "static/js/2.c78a423f.chunk.js.map": "/web-personal-HQ/static/js/2.c78a423f.chunk.js.map",
     "static/js/3.a8b93c36.chunk.js": "/web-personal-HQ/static/js/3.a8b93c36.chunk.js",
     "static/js/3.a8b93c36.chunk.js.map": "/web-personal-HQ/static/js/3.a8b93c36.chunk.js.map",
     "index.html": "/web-personal-HQ/index.html",
-    "static/css/main.127a0e53.chunk.css.map": "/web-personal-HQ/static/css/main.127a0e53.chunk.css.map",
-    "static/js/2.94c9019b.chunk.js.LICENSE.txt": "/web-personal-HQ/static/js/2.94c9019b.chunk.js.LICENSE.txt",
+    "static/css/main.2fc201a2.chunk.css.map": "/web-personal-HQ/static/css/main.2fc201a2.chunk.css.map",
+    "static/js/2.c78a423f.chunk.js.LICENSE.txt": "/web-personal-HQ/static/js/2.c78a423f.chunk.js.LICENSE.txt",
     "static/media/competencia.ed3c157e.svg": "/web-personal-HQ/static/media/competencia.ed3c157e.svg",
     "static/media/lentes_anime.7322962f.jpg": "/web-personal-HQ/static/media/lentes_anime.7322962f.jpg",
     "static/media/logo_free-file.b145be07.png": "/web-personal-HQ/static/media/logo_free-file.b145be07.png",
     "static/media/logros.89c0ae33.svg": "/web-personal-HQ/static/media/logros.89c0ae33.svg",
     "static/media/objetivo.84238f73.svg": "/web-personal-HQ/static/media/objetivo.84238f73.svg",
-    "static/media/profile.f41c5585.png": "/web-personal-HQ/static/media/profile.f41c5585.png"
+    "static/media/pngegg.c988377e.png": "/web-personal-HQ/static/media/pngegg.c988377e.png",
+    "static/media/profile.f41c5585.png": "/web-personal-HQ/static/media/profile.f41c5585.png",
+    "static/media/videoc.53f17a2e.png": "/web-personal-HQ/static/media/videoc.53f17a2e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9521dcc3.js",
-    "static/js/2.94c9019b.chunk.js",
-    "static/css/main.127a0e53.chunk.css",
-    "static/js/main.cb16cbb5.chunk.js"
+    "static/js/2.c78a423f.chunk.js",
+    "static/css/main.2fc201a2.chunk.css",
+    "static/js/main.88cc1506.chunk.js"
   ]
 }
